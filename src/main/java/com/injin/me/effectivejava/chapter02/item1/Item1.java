@@ -11,5 +11,10 @@ public class Item1 {
     public static Item1 createInstance() {
         return new Item1();
     }
+
+    public static void main(String[] args) {
+//        Item1 item1 = new Item1(); //생성자
+        Item1 staticFactoryMethod = Item1.createInstance(); //정적팩토리메서드
+    }
 }
 
