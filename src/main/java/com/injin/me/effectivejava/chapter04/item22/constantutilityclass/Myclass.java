@@ -1,6 +1,6 @@
-package com.injin.me.effectivejava.chapter03.item22.constantutilityclass;
+package com.injin.me.effectivejava.chapter04.item22.constantutilityclass;
 
-import static com.injin.me.effectivejava.chapter03.item22.constantutilityclass.PhysicalConstants.*;
+import static com.injin.me.effectivejava.chapter04.item22.constantutilityclass.PhysicalConstants.*;
 
 public class Myclass {
     public static void main(String[] args) {

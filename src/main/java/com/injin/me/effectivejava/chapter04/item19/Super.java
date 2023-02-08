@@ -1,4 +1,4 @@
-package com.injin.me.effectivejava.chapter03.item19;
+package com.injin.me.effectivejava.chapter04.item19;
 
 // 재정의 가능 메서드를 호출하는 생성자 - 따라 하지 말 것! (115쪽)
 public class Super {

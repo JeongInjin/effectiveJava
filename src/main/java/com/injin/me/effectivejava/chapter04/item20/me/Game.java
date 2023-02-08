@@ -1,4 +1,4 @@
-package com.injin.me.effectivejava.chapter03.item20.me;
+package com.injin.me.effectivejava.chapter04.item20.me;
 
 abstract class Game {
     abstract void initialize();

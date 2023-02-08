@@ -1,4 +1,4 @@
-package com.injin.me.effectivejava.chapter03.item21.me;
+package com.injin.me.effectivejava.chapter04.item21.me;
 
 interface MarkerInterface {
     default void hello() {

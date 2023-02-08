@@ -1,4 +1,4 @@
-package com.injin.me.effectivejava.chapter03.item22.constantutilityclass;
+package com.injin.me.effectivejava.chapter04.item22.constantutilityclass;
 
 // 코드 22-2 상수 유틸리티 클래스 (140쪽)
 public class PhysicalConstants {

@@ -1,4 +1,4 @@
-package com.injin.me.effectivejava.chapter03.item20;
+package com.injin.me.effectivejava.chapter04.item20;
 
 import java.util.Map;
 import java.util.Objects;

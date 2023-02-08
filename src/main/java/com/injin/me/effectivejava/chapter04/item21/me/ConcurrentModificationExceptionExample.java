@@ -1,4 +1,4 @@
-package com.injin.me.effectivejava.chapter03.item21.me;
+package com.injin.me.effectivejava.chapter04.item21.me;
 
 import java.util.ArrayList;
 import java.util.Iterator;

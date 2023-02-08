@@ -1,4 +1,4 @@
-package com.injin.me.effectivejava.chapter03.item22.constantinterface;
+package com.injin.me.effectivejava.chapter04.item22.constantinterface;
 
 // 코드 22-1 상수 인터페이스 안티패턴 - 사용금지! (139쪽)
 public interface PhysicalConstants {
